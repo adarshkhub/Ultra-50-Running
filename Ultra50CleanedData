@@ -1,0 +1,109 @@
+Place,City,State,Age,Gender,Time,Name,Total_Minutes,latitude,longitude
+1,Tulsa,OK,35,M,0 days 08:23:01,Daniel Wilson,503,-37.8141705,144.9655616
+2,Greenwood,IN,38,M,0 days 08:57:54,Eric Davis,538,-37.8141705,144.9655616
+3,New Smyrna Beach,FL,43,M,0 days 09:24:35,Stewart Edwards,565,-37.8141705,144.9655616
+4,Montverde,FL,53,M,0 days 09:24:36,Ron Hammett,565,-37.8141705,144.9655616
+5,Geneva,FL,44,M,0 days 09:42:17,Seth Cain,582,-37.8141705,144.9655616
+6,Odessa,FL,39,M,0 days 09:48:23,Brad Fetters,588,-37.8141705,144.9655616
+7,Goshen,OH,47,M,0 days 09:52:01,David Booher,592,-37.8141705,144.9655616
+8,Sarasota,FL,32,F,0 days 10:04:42,Elizabeth Myers,605,-37.8141705,144.9655616
+9,York,PA,36,M,0 days 10:07:19,Andrew Foerster,607,-37.8141705,144.9655616
+10,Delray Beach,FL,44,M,0 days 10:09:02,Michael Stone,609,-37.8141705,144.9655616
+11,Seven Devils,NC,30,F,0 days 10:14:28,Heidi Hinnershitz,614,-37.8141705,144.9655616
+12,Middletown,NY,40,M,0 days 10:17:20,Chad Smith,617,-37.8141705,144.9655616
+13,Westbrookville,NY,48,M,0 days 10:17:27,Paul Reynolds,617,-37.8141705,144.9655616
+14,Marietta,GA,58,M,0 days 10:31:47,Robb Young,632,-37.8141705,144.9655616
+15,St. John's,FL,46,M,0 days 10:34:48,Trevor Foulk,635,-37.8141705,144.9655616
+16,Charlotte,NC,34,M,0 days 10:39:48,Daniel Reilly,640,-37.8141705,144.9655616
+17,Chuluota,FL,49,F,0 days 10:41:57,Julie Rosa Kenney,642,-37.8141705,144.9655616
+18,Batavia,NY,32,M,0 days 10:46:22,Jason Harasimowicz,646,-37.8141705,144.9655616
+19,Oak Ridge,TN,40,M,0 days 10:47:44,Johnny Daniels,648,-37.8141705,144.9655616
+20,Fort Moore,GA,29,M,0 days 10:59:23,Troy Tibbetts,659,-37.8141705,144.9655616
+21,Lake Worth,FL,36,M,0 days 11:12:10,Andrew Graham,672,-37.8141705,144.9655616
+22,El Segundo,CA,41,F,0 days 11:13:28,Jessica Hardy,673,-37.8141705,144.9655616
+23,Valrico,FL,40,M,0 days 11:16:22,Brandon Holmes,676,-37.8141705,144.9655616
+24,Las Vegas,NV,41,M,0 days 11:19:53,Jeremy Boz,680,-37.8141705,144.9655616
+25,Las Vegas,NV,46,M,0 days 11:20:04,Darren Ramdhan,680,-37.8141705,144.9655616
+26,Merritt Island,FL,36,M,0 days 11:22:27,Matthew Masson,682,-37.8141705,144.9655616
+27,Kennesaw,GA,40,M,0 days 11:44:57,Charlie Alesi,705,-37.8141705,144.9655616
+28,Stuart,FL,27,F,0 days 11:46:34,Lizzy Fowler,707,-37.8141705,144.9655616
+29,Jacksonville Beach,FL,45,M,0 days 11:49:03,Clay Pell,709,-37.8141705,144.9655616
+30,Oviedo,FL,38,M,0 days 11:52:03,Arron Ocheltree,712,-37.8141705,144.9655616
+31,Chicago,IL,34,M,0 days 11:55:00,Eric O'Neil,715,-37.8141705,144.9655616
+32,Toronto,ON,35,M,0 days 11:55:03,Mike Murchison,715,-37.8141705,144.9655616
+33,Columbus,GA,27,M,0 days 11:55:07,Cody Dolloff,715,-37.8141705,144.9655616
+34,BALLARD,WV,31,F,0 days 11:59:06,Leanna Hobson,719,-37.8141705,144.9655616
+35,Milton,FL,46,M,0 days 11:59:59,Rigoberto Barragan,720,-37.8141705,144.9655616
+36,PAWTUCKET,RI,54,M,0 days 12:00:02,Nick Wishart,720,-37.8141705,144.9655616
+37,Milton,FL,48,M,0 days 12:00:08,Bill Sanborn,720,-37.8141705,144.9655616
+38,Mount Desert,ME,32,F,0 days 12:11:27,Tara Allen,731,-37.8141705,144.9655616
+39,Hilton Head,SC,48,M,0 days 12:11:30,Chad Frederick,732,-37.8141705,144.9655616
+40,Woodstock,GA,45,F,0 days 12:18:02,Anna Foard,738,-37.8141705,144.9655616
+41,Dekalb Jct,NY,42,M,0 days 12:18:19,Ross Putman,738,-37.8141705,144.9655616
+42,Florida,FL,39,M,0 days 12:27:56,Jose Marin,748,-37.8141705,144.9655616
+43,tampa,FL,31,M,0 days 12:27:58,Alister Wilson,748,-37.8141705,144.9655616
+44,Orlando,FL,40,M,0 days 12:31:32,Jeffrey Torres,752,-37.8141705,144.9655616
+45,Henrico,VA,45,M,0 days 12:39:13,Chris Mason,759,-37.8141705,144.9655616
+46,Buford,GA,36,M,0 days 12:39:39,Brent Bowman,760,-37.8141705,144.9655616
+47,Avondale Estates,GA,37,M,0 days 12:47:10,Drew Burkhalter,767,-37.8141705,144.9655616
+48,St. John's,NL,61,M,0 days 12:54:30,George Blackwood,774,-37.8141705,144.9655616
+49,Valrico,FL,43,M,0 days 12:55:55,Ben Henderson,776,-37.8141705,144.9655616
+50,Ormond Beach,FL,22,M,0 days 12:56:10,Dominick Gebauer,776,-37.8141705,144.9655616
+51,Knoxville,TN,35,F,0 days 12:56:46,Rebecca Sharp,777,-37.8141705,144.9655616
+52,Erie,CO,30,F,0 days 12:57:58,Tara Butler,778,-37.8141705,144.9655616
+53,ASHEVILLE,NC,29,M,0 days 12:58:35,Hunter Musgrove,779,-37.8141705,144.9655616
+54,Asheville,NC,33,F,0 days 12:58:41,Jessika Poppe,779,-37.8141705,144.9655616
+55,Crawfordville,FL,35,M,0 days 12:59:47,Robert Crow,780,-37.8141705,144.9655616
+56,Longwood,FL,43,M,0 days 12:59:53,Todd Barnett,780,-37.8141705,144.9655616
+57,Jacksonville,FL,42,M,0 days 13:02:29,Andrew Fortenberry,782,-37.8141705,144.9655616
+58,Oviedo,FL,34,M,0 days 13:03:21,Kyle Schmidt,783,-37.8141705,144.9655616
+59,Meadowbrook,PA,49,F,0 days 13:04:23,Michelle Goldberg,784,-37.8141705,144.9655616
+60,Chilhowie,VA,29,M,0 days 13:05:53,John William Deaton,786,-37.8141705,144.9655616
+61,Oviedo,FL,52,M,0 days 13:07:12,Jason Kring,787,-37.8141705,144.9655616
+62,Palm Coast,FL,33,M,0 days 13:08:09,Alex Moore,788,-37.8141705,144.9655616
+63,Palm Coast,FL,38,M,0 days 13:09:55,Boris Karetny,790,-37.8141705,144.9655616
+64,Avondale estates,GA,32,F,0 days 13:19:29,Casey Burkhalter,799,-37.8141705,144.9655616
+65,Homer,GA,48,M,0 days 13:20:05,Jason Finch,800,-37.8141705,144.9655616
+66,Orlando,FL,35,M,0 days 13:20:59,Gregory Ryan,801,-37.8141705,144.9655616
+67,DeFuniak Springs,FL,36,M,0 days 13:21:07,Samuel Dunaway,801,-37.8141705,144.9655616
+68,Palm Bay,FL,41,M,0 days 13:21:55,Brian Miller,802,-37.8141705,144.9655616
+69,Elgin,IL,60,F,0 days 13:26:11,Stephanie Felber,806,-37.8141705,144.9655616
+70,Overland Park,KS,57,M,0 days 13:26:20,Tony Hofmann,806,-37.8141705,144.9655616
+71,Lady Lake,FL,60,M,0 days 13:26:27,Steven Stricker,806,-37.8141705,144.9655616
+72,Waterloo,IL,46,M,0 days 13:26:45,Darren Worley,807,-37.8141705,144.9655616
+73,Fort Benning,GA,31,M,0 days 13:27:37,Joshua Sanders,808,-37.8141705,144.9655616
+74,Columbus,GA,37,M,0 days 13:27:46,Matthew McNeece,808,-37.8141705,144.9655616
+75,Greece,NY,47,M,0 days 13:28:30,Matt Steiner,808,-37.8141705,144.9655616
+76,Weston,FL,38,M,0 days 13:45:18,Brett Chapman,825,-37.8141705,144.9655616
+77,Weston,FL,38,M,0 days 13:47:19,Zach Clayton,827,-37.8141705,144.9655616
+78,Estero,FL,24,M,0 days 13:48:48,Kyle Rose,829,-37.8141705,144.9655616
+79,Las Vegas,NV,39,F,0 days 13:49:04,Becky Madsen,829,-37.8141705,144.9655616
+80,Las Vegas,NV,34,F,0 days 13:49:07,Kirsten York,829,-37.8141705,144.9655616
+81,Winter Garden,FL,31,F,0 days 13:49:24,Bailey Freer,829,-37.8141705,144.9655616
+82,Knoxville,TN,56,M,0 days 13:54:55,Matthew Holappa,835,-37.8141705,144.9655616
+83,Atlanta,GA,63,M,0 days 13:55:14,Gerhard Mutz,835,-37.8141705,144.9655616
+84,Woodstock,GA,56,M,0 days 13:56:55,Rusty Smith,837,-37.8141705,144.9655616
+85,Tampa,FL,53,M,0 days 14:01:02,Jason Kumlien,841,-37.8141705,144.9655616
+86,Bethel,OH,26,M,0 days 14:01:16,Abraham Mancino,841,-37.8141705,144.9655616
+87,Hilliard,FL,51,M,0 days 14:02:44,William Dozier,843,-37.8141705,144.9655616
+88,Lakeland,FL,45,M,0 days 14:11:54,Mark Ogrady,852,-37.8141705,144.9655616
+89,Boynton Beach,FL,35,M,0 days 14:13:42,Julian Davis,854,-37.8141705,144.9655616
+90,Bridgeport,PA,34,M,0 days 14:17:04,Rob Canfield,857,-37.8141705,144.9655616
+91,Orlando,FL,26,M,0 days 14:26:47,Ryan Nolan,867,-37.8141705,144.9655616
+92,Winter Springs,FL,41,F,0 days 14:29:08,Brittany Sobering,869,-37.8141705,144.9655616
+93,St Cloud,FL,53,M,0 days 14:29:23,Gordon Bloom,869,-37.8141705,144.9655616
+94,Casselberry,FL,41,F,0 days 14:29:30,Jen Maki,870,-37.8141705,144.9655616
+95,Plant City,FL,42,M,0 days 14:29:54,Nick Collins,870,-37.8141705,144.9655616
+96,Plant City,FL,47,M,0 days 14:29:56,Ryan Bontrager,870,-37.8141705,144.9655616
+97,Pace,FL,61,M,0 days 14:35:35,Brian Delong,876,-37.8141705,144.9655616
+98,Omaha,NE,31,F,0 days 14:40:05,Lena Cowell,880,-37.8141705,144.9655616
+99,Orlando,FL,39,F,0 days 14:40:09,Katherine Clemente,880,-37.8141705,144.9655616
+100,VENTNOR CITY,NJ,36,M,0 days 15:00:17,Matthew Damico,900,-37.8141705,144.9655616
+101,Highland Hgts,OH,55,M,0 days 15:00:28,Andrew Rollins,900,-37.8141705,144.9655616
+102,Oviedo,FL,53,M,0 days 15:00:30,Paul Rollins,900,-37.8141705,144.9655616
+103,DeBary,FL,51,F,0 days 15:01:15,Jennifer Isley,901,-37.8141705,144.9655616
+104,Winter Park,FL,49,M,0 days 15:03:26,David Buning,903,-37.8141705,144.9655616
+105,Woodstock,GA,53,F,0 days 15:09:19,Kelly Stoner Baker,909,-37.8141705,144.9655616
+106,Woodstock,GA,39,M,0 days 15:10:30,Chad Ward,910,-37.8141705,144.9655616
+107,Cicero,NY,62,M,0 days 15:20:26,Dennis Stadelman,920,-37.8141705,144.9655616
+108,Fort Moore,GA,24,M,0 days 15:40:49,Jonathan Burnham,941,-37.8141705,144.9655616

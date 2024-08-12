@@ -9,7 +9,8 @@ Cleaning and working with pandas dataframes of school and student district infor
 
 ### Results
 
-- PrntScreen goes here
+![Ultra50 sql query](https://github.com/user-attachments/assets/d5867b6e-3584-4510-99cd-6990b2c58545)
+
 
 
 ### Analysis (Do in the morning as warm-up)

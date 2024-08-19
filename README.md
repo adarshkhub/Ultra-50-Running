@@ -13,8 +13,8 @@ Cleaning and working with pandas dataframes of school and student district infor
 
 
 
-### Analysis (Do in the morning as warm-up)
+### Analysis 
 
 Pandas is a very important library for data cleaning/data wrangling and this project was helpful in learning and applying the capabilities pandas offers. 
 
-- include opinion as well.
+
